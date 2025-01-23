@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @AngeloMustafa
 - 👀 I’m interested in computer science, specifically in game design, or software engineering.
-- 🌱 I’m currently learning assmebly, and system design.
-- 🥅 Goals for 2024: Learn more methods to programming, and build more projects to add to my resume.
+- 🥅 Goals for 2025: Develop my skills to program dynamically and create more projects with UI
 - 📫 How to reach me: email @angelo_mustafa@yahoo.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love video games, and soccer
 
 <!---
